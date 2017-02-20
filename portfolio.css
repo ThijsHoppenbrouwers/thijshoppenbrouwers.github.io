@@ -1,7 +1,23 @@
-#content {
-	background-color: grey;
-	border = 1px solid #000;
-	margin: 0 auto;
-    width: 1000px;
-    height: 100%;
+#title_bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#title_bar li {
+    float: left;
+}
+
+#title_bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#title_bar li a:hover {
+    background-color: #111;
 }
