@@ -1,7 +1,11 @@
 * {
 	margin: 0;
 	padding: 0;
+	 background-attachment: fixed;
 }
+
+
+
 /* header */
 
 #header {
@@ -43,6 +47,8 @@
 	background: rgba(0, 0, 0, 0.8);
 }
 
+
+
 /* side bar */
 
 #side_bar {
@@ -75,4 +81,28 @@
 
 #side_bar li {
 	text-align: center;
+}
+
+
+
+/* About me */
+
+#about_me {
+	z-index: 8;
+	width: 40%;
+	right: 30%;
+	left: 30%;
+	background: rgba(0, 0, 0, 0.8);
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+
+}
+#about_me_title {
+	top: 10%;
+}
+
+#about_me_text {
+	top: 30%;
 }
