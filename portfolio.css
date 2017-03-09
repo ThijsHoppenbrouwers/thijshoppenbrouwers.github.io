@@ -129,3 +129,81 @@
 
 	background: rgba(0, 0, 0, 0.8);
 }
+
+#assignment_title1 {
+	width: 30%;
+	right: 35%;
+	left: 35%;
+	top: 30%;
+
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#assignment1 {
+	right: 30%;
+	left: 30%;
+	top: 35%;
+
+
+	overflow: hidden; 
+	position: absolute; 
+	background: rgba(0, 0, 0, 0.8);
+
+}
+
+#assignment_title2 {
+	width: 30%;
+	right: 35%;
+	left: 35%;
+	top: 90%;
+
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#assignment2 {
+	right: 30%;
+	left: 30%;
+	top: 95%;
+
+
+	overflow: hidden; 
+	position: absolute; 
+	background: rgba(0, 0, 0, 0.8);
+
+}
+
+#assignment_title3 {
+	width: 30%;
+	right: 35%;
+	left: 35%;
+	top: 150%;
+
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#assignment3 {
+	right: 30%;
+	left: 30%;
+	top: 155%;
+
+
+	overflow: hidden; 
+	position: absolute; 
+	background: rgba(0, 0, 0, 0.8);
+
+}
