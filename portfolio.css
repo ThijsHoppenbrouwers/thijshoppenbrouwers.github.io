@@ -84,25 +84,32 @@
 }
 
 
-
 /* About me */
 
-#about_me {
-	z-index: 8;
+#about_me_title {
 	width: 40%;
 	right: 30%;
 	left: 30%;
-	background: rgba(0, 0, 0, 0.8);
+	top: 20%;
+
 	color: white;
 	overflow: hidden; 
 	position: absolute; 
 	text-align: center;
 
-}
-#about_me_title {
-	top: 10%;
+	background: rgba(0, 0, 0, 0.8);
 }
 
 #about_me_text {
+	width: 40%;
+	right: 30%;
+	left: 30%;
 	top: 30%;
+
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+	background: rgba(0, 0, 0, 0.8);
+
 }
