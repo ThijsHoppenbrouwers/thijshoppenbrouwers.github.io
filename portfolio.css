@@ -126,7 +126,6 @@
 	overflow: hidden; 
 	position: absolute; 
 	text-align: center;
-
 	background: rgba(0, 0, 0, 0.8);
 }
 
@@ -160,7 +159,7 @@
 	width: 30%;
 	right: 35%;
 	left: 35%;
-	top: 95%;
+	top: 100%;
 
 	color: white;
 	overflow: hidden; 
@@ -173,8 +172,7 @@
 #assignment2 {
 	right: 30%;
 	left: 30%;
-	top: 100%;
-
+	top: 105%;
 
 	overflow: hidden; 
 	position: absolute; 
@@ -186,7 +184,7 @@
 	width: 30%;
 	right: 35%;
 	left: 35%;
-	top: 155%;
+	top: 160%;
 
 	color: white;
 	overflow: hidden; 
@@ -199,7 +197,7 @@
 #assignment3 {
 	right: 30%;
 	left: 30%;
-	top: 160%;
+	top: 165%;
 
 
 	overflow: hidden; 
