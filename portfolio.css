@@ -159,7 +159,7 @@
 	width: 30%;
 	right: 35%;
 	left: 35%;
-	top: 100%;
+	top: 95%;
 
 	color: white;
 	overflow: hidden; 
@@ -172,7 +172,7 @@
 #assignment2 {
 	right: 30%;
 	left: 30%;
-	top: 105%;
+	top: 100%;
 
 	overflow: hidden; 
 	position: absolute; 
