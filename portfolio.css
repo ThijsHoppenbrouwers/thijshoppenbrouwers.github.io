@@ -253,3 +253,24 @@
 	padding-bottom: 30px;
 
 }
+
+#assignment4 {
+	width: 30%;
+	right: 35%;
+	left: 35%;
+	top: 265%;
+	padding-bottom: 10px;
+
+	color: white;
+	overflow: hidden; 
+	position: absolute; 
+	text-align: center;
+
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#assignment4 p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
